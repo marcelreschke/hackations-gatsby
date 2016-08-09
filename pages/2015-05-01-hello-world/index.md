@@ -1,6 +1,7 @@
 ---
 id: 1
 title: "Jeju"
+name: ""
 operator: "Hacker Paradise"
 date: "2016-08-06T18:00:03.284Z"
 begin: "2016-08-06"
