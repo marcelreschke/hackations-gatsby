@@ -11,8 +11,9 @@ targetGroups: ["digital nomads"]
 destinations: ["Jeju, South Korea"]
 hosts: ["Jeju Government", "Kakao"]
 size: "n(a)"
-prizes: ["350€"]
+prizes: ["450€"]
 tags: ["no tag"]
+path: "/jeju-experience/"
 ---
 
 Jeju, often regarded as the 'Korean Hawaii', is 60 miles southwest of the southern tip of South Korea. It is an up-and-coming tech hot spot in Korea and boasts a warm climate, beautiful beaches, and tropical mountains.
